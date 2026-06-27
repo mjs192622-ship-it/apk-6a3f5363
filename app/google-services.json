@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "902464432886",
+        "project_id": "loan-recovery1",
+        "storage_bucket": "loan-recovery1.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:902464432886:android:56f272714adbbbddc31ad7",
+                "android_client_info": {
+                    "package_name": "com.loantracker.app"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "902464432886-6nfhfbt9d8qvd4i489asr3u5oj9sh8nl.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBWa0BPqHY47CBX-Hj5riYP7LmswWAcjZ0"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "902464432886-6nfhfbt9d8qvd4i489asr3u5oj9sh8nl.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
